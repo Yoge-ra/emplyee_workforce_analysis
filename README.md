@@ -11,13 +11,21 @@ It has been anonymized to protect privacy while still providing valuable insight
 
 **Coloumns**
 --`Education`: The educational qualifications of employees.
+
 --`Joining year`: The year which each employee joined the company, indication their length of services.
+
 --`City`: The location or city where each employee is based or works.
+
 --`Payment tier`: Categorization of employees into different salary groups.
+
 --`Age`: The age of each employee, providing demographic insights.
+
 --`Gender`: Gender identity of employees, promoting diversity analysis.
+
 --`Ever benched`: Indicates if an employee has ever been temprorarily without assigned work.
+
 --`Experience in current domain`: The number of years of experience employee have in their current field.
+
 --`Leave or not`: a target coloumn.
 
 ## Project Steps:
@@ -25,11 +33,14 @@ It has been anonymized to protect privacy while still providing valuable insight
 #### **1.Data cleaning and preparation:**
 
 --**Handling missing values:** Identify and address any missing values.
+
 --**Standardize Data Formats:** Ensures consistency in data formats.
+
 --**Correct Inconsistencies:** Ensure consistent categories for fields such as `Education` and `city`.
 
 #### **2.EDA:**
 --**Summary Satistics:** Calculate mean, median, mode, standard deviation and range for numeric coloumns such as `Age` and `Education in Current Domain`
+
 --**Frequency Distribution:** Analyze the frequency distribution for categorical columns like `Education`,`City`,`Payment Tier` and `Gender`.
 
 ## Potential Research question and their solutions:
